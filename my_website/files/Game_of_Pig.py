@@ -40,7 +40,6 @@ def introduction():
     print('THE CURRENT HIGH SCORE TO BEAT IS "'+ str(globhigh_score)+ '" AND BELONGS TO "'+ str(globhigh_scorer)+'".') 
     print('')
     print('')
-    print('Press r to Roll Dice')
     
 def roll(sides):
     #This represents the player rolling 2 dice
